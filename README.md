@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Arnold Muiruri 👋
 
-<!--
-**arnoldmuiruri/arnoldmuiruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Science master's student passionate about using data to drive decisions and solve real-world problems. 
 
-Here are some ideas to get you started:
+- 🌱 Learning: Data Science and Machine Learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills:
+- Python | R | SQL | Git | 
+- Machine Learning | Data Visualization 
+
+## Projects:
+- [Sentiment Analysis in Insurance](https://github.com/arnoldmuiruri/insurance_sentiment_analysis)
+
+## Education:
+- 🎓 Data Science Master's student at GVSU
+- 🎓 Financial Engineering at JKUAT 
+
+
