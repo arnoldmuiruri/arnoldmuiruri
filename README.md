@@ -15,4 +15,11 @@ I'm a Data Science master's student passionate about using data to drive decisio
 - 🎓 Data Science Master's student at GVSU
 - 🎓 Financial Engineering at JKUAT 
 
+## My GitHub Stats 📊
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=realonbebeto&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realonbebeto" />
+</a>
 
